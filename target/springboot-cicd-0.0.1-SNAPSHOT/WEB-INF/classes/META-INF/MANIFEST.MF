@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ghosh
+Build-Jdk: 12.0.1
+Implementation-Title: springboot-cicd
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springboot.cicd
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-cicd
+Created-By: Maven Integration for Eclipse
+
